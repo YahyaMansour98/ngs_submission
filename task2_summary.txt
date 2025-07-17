@@ -1,0 +1,17 @@
+Summary
+
+- My assembled SARS-CoV-2 genome is very similar to the reference genome (over 99.8% identity).
+- I found 32 SNPs and 19 indels between my assembly and the reference.
+- All of the reference and assembly sequences are aligned, and almost all bases are covered.
+- The assembly is a bit larger than the reference, probably because of some repeats or assembly artifacts.
+- Most SNPs are C↔T transitions, which is common in viral genomes.
+- The number of SNPs and indels is typical for a SARS-CoV-2 isolate and shows my sample is closely related to the reference strain.
+
+Files included:
+- snps.txt (SNP/indel list)
+- dnadiff_out.report (summary)
+- dnadiff_out.snps (detailed SNPs)
+- genome_compare.delta (alignment)
+- genome_compare.png (alignment plot, if generated)
+
+This analysis confirms that my assembly is high quality and closely matches the known SARS-CoV-2 reference genome.

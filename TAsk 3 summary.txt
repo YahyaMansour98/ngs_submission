@@ -1,0 +1,5 @@
+ After filtering out scaffolds shorter than 2 kb, the hybrid assembly had just 13 scaffolds, while the Illumina-only assembly had 40. 
+ The hybrid assembly also produced much longer scaffolds, with a maximum length of over 1.4 Mb, and an N50 of over 1 Mb. 
+ In contrast, the Illumina-only assembly’s longest scaffold was less than 900 kb, and the N50 was lower. 
+ Both assemblies have a similar total genome size (~6.8 Mb), but the hybrid assembly is clearly more contiguous (higher N50, fewer and longer scaffolds).
+ Therefore, the hybrid assembly (Illumina + Nanopore) is better and more complete, demonstrating the advantage of including long-read sequencing data.
